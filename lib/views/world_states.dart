@@ -1,3 +1,5 @@
+// ignore_for_file: annotate_overrides, must_be_immutable
+
 import 'package:covid19/models/WorldStatesModel.dart';
 import 'package:covid19/services/utilities/states_services.dart';
 import 'package:covid19/views/countries_list.dart';

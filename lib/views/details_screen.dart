@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:covid19/views/world_states.dart';
 import 'package:flutter/material.dart';
 
